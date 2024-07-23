@@ -1,0 +1,20 @@
+/* styles 
+Adding styles to recipes page */
+
+/* coco styles */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: #fec701;
+}
+
+img {
+    height: auto;
+    width: 700px;
+}
+
+ul.ol {
+    list-style: none;
+}
+
